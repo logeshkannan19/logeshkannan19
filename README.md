@@ -2,8 +2,6 @@
 <h3 align="center">🚀 Entrepreneur • Full-Stack Engineer • Building products that actually matter</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logeshkannan19" alt="logeshkannan19" /></a> </p>
-
 - 🔭 I’m currently working on **AI-powered SaaS tools & scalable web apps**
 
 - 🌱 I’m currently learning **System Design, AI/ML integration, and advanced backend architectures**
