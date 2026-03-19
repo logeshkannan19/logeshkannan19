@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm LOGESH KANNAN</h1>
 <h3 align="center">🚀 Entrepreneur • Full-Stack Engineer • Building products that actually matter</h3>
-<br><br>
+
+<br>
 
 - 🔭 I’m currently working on **AI-powered SaaS tools & scalable web apps**
 
