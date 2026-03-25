@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Startups, full-stack development, UI/UX, product building**
 
-- 🌐 Portfolio https://logeshkannan.com/
-
 - ⚡ Fun fact **I don’t just write code — I build businesses**
 
 <h3 align="left">Languages and Tools:</h3>
