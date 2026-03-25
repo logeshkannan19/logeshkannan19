@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Startups, full-stack development, UI/UX, product building**
 
-- 📫 How to reach me **logeshkannan19@gmail.com**
-
 - 🌐 Portfolio https://logeshkannan.com/
 
 - ⚡ Fun fact **I don’t just write code — I build businesses**
