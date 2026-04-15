@@ -1,105 +1,90 @@
+<div style="font-family: 'Times New Roman', serif;">
+
 <h1 align="center">🚀 Logesh Kannan</h1>
 <h3 align="center">Building AI-powered products • Scaling startups • Turning ideas into revenue</h3>
 
-<p align="center">
-  <b>Entrepreneur • Full-Stack Engineer • Product Builder</b>
-</p>
+<p align="center"><b>Entrepreneur • Full-Stack Engineer • Product Builder</b></p>
 
----
+<hr>
 
-## 🧠 Who I Am
+<h2>🧠 Who I Am</h2>
 
-I’m not just a developer — I’m a **builder obsessed with solving real problems**.
+<p>I’m not just a developer — I’m a builder obsessed with solving real problems.</p>
 
-- 🏗️ I build **scalable SaaS products**
-- 🤖 I integrate **AI into real-world use cases**
-- 📈 I focus on **growth, monetization & product-market fit**
-- ⚡ I move fast, test ideas, and ship relentlessly
+<ul>
+<li>🏗️ I build scalable SaaS products</li>
+<li>🤖 I integrate AI into real-world use cases</li>
+<li>📈 I focus on growth, monetization & product-market fit</li>
+<li>⚡ I move fast, test ideas, and ship relentlessly</li>
+</ul>
 
----
+<h2>🚀 Current Focus</h2>
 
-## 🚀 Current Focus
+<ul>
+<li>🔭 Building AI-first SaaS tools</li>
+<li>🌱 Mastering System Design & Distributed Systems</li>
+<li>🧠 Exploring AI/ML + Product Integration</li>
+<li>💡 Working on startup ideas with real market demand</li>
+</ul>
 
-- 🔭 Building **AI-first SaaS tools**
-- 🌱 Mastering **System Design & Distributed Systems**
-- 🧠 Exploring **AI/ML + Product Integration**
-- 💡 Working on **startup ideas with real market demand**
+<h2>💼 What I Bring to the Table</h2>
 
----
+<ul>
+<li>End-to-end product development (0 → 1 → scale)</li>
+<li>Strong technical + business thinking combo</li>
+<li>Experience in building & launching products</li>
+<li>Focus on execution over ideas</li>
+</ul>
 
-## 💼 What I Bring to the Table
+<h2>🛠️ Tech Stack</h2>
 
-- End-to-end **product development (0 → 1 → scale)**
-- Strong **technical + business thinking combo**
-- Experience in **building & launching products**
-- Focus on **execution over ideas**
+<h3>💻 Core</h3>
+<p>JavaScript • TypeScript • Python • Java • C++</p>
 
----
+<h3>🌐 Frontend</h3>
+<p>React • CSS</p>
 
-## 🛠️ Tech Stack
+<h3>⚙️ Backend & Infra</h3>
+<p>Node.js • MongoDB • MySQL • Firebase</p>
 
-### 💻 Core
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
-</p>
+<h3>☁️ DevOps & Systems</h3>
+<p>Docker • AWS • Kafka • Bash</p>
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,css" />
-</p>
+<h3>🤖 AI / Data</h3>
+<p>TensorFlow • Pandas</p>
 
-### ⚙️ Backend & Infra
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase" />
-</p>
+<h2>📊 Builder Philosophy</h2>
 
-### ☁️ DevOps & Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,kafka,bash" />
-</p>
+<blockquote>
+"Ideas are cheap. Execution is everything.<br>
+Build fast. Learn faster. Scale what works."
+</blockquote>
 
-### 🤖 AI / Data
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
+<h2>🚀 Vision</h2>
 
----
+<ul>
+<li>Solve meaningful problems</li>
+<li>Scale globally</li>
+<li>Generate real impact & revenue</li>
+</ul>
 
-## 📊 Builder Philosophy
+<h2>🤝 Open To</h2>
 
-> "Ideas are cheap. Execution is everything.  
-> Build fast. Learn faster. Scale what works."
+<ul>
+<li>Startup collaborations 🤝</li>
+<li>SaaS product building 💡</li>
+<li>Growth & scaling discussions 📈</li>
+<li>Investor & founder connections 💼</li>
+</ul>
 
----
-
-## 🚀 Vision
-
-To build **technology-driven businesses** that:
-- Solve meaningful problems
-- Scale globally
-- Generate real impact & revenue
-
----
-
-## 🤝 Open To
-
-- Startup collaborations 🤝  
-- SaaS product building 💡  
-- Growth & scaling discussions 📈  
-- Investor & founder connections 💼  
-
----
-
-## 📫 Let’s Connect
+<h2>📫 Let’s Connect</h2>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/logeshkannan">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
-  </a>
+<a href="https://www.buymeacoffee.com/logeshkannan">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
+</a>
 </p>
 
----
+<p align="center"><b>⚡ I don’t just build projects — I build companies.</b></p>
 
-<p align="center">
-  ⚡ <b>I don't just build projects — I build companies.</b>
-</p>
+</div>
