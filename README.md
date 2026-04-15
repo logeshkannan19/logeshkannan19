@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Logesh Kannan</h1>
+<h1 align="center"> LOGESH KANNAN A </h1>
 <h3 align="center">Building AI-powered products • Scaling startups • Turning ideas into revenue</h3>
 
 <p align="center">
